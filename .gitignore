@@ -1,3 +1,4 @@
 .floydignore
 .floydexpt
 command.sh
+.ipynb_checkpoints
